@@ -1,17 +1,4 @@
-#include <iostream>
-#include <cmath>
-#include <string>
-#include <algorithm>
-#include <ctime>
-#include <functional>
-#include <vector>
-#include <stack>
-#include <queue>
-#include <map>
-#include <set>
-#include <tuple>
-#include <cassert>
-#include <bitset>
+#include <bits/stdc++.h>
 
 using namespace std;
 
