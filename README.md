@@ -23,7 +23,7 @@ git clone https://github.com/kaikai529/atcoder_cpp.git
 以下のコマンドを打ち込むと下の出力を得ます．<br>
 ここにコンテストの名前を入力しましょう！
 ~~~
-python make_folder.py
+make_folder.exe
 
 (画面)　
 Input contest name:
