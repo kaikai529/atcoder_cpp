@@ -3,6 +3,8 @@
         "xstring": "cpp",
         "ostream": "cpp",
         "iostream": "cpp",
+        "xutility": "cpp",
+        "random": "cpp"
         "string": "cpp",
         "algorithm": "cpp"
     }
