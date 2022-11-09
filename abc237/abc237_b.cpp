@@ -18,5 +18,3 @@ int main(void){
         }
         cout << endl;
     }
-    return EXIT_SUCCESS;
-}

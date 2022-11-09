@@ -6,7 +6,7 @@
 - Step1. レポジトリをクローンしましょう!
 
 ~~~
-git clone https://github.com/kaikai529/atcoder.git
+git clone https://github.com/kaikai529/atcoder_cpp.git
 ~~~
 
 ※ gitをインストールしてない人はしてください. <br>
@@ -23,7 +23,7 @@ git clone https://github.com/kaikai529/atcoder.git
 以下のコマンドを打ち込むと下の出力を得ます．<br>
 ここにコンテストの名前を入力しましょう！
 ~~~
-python make_folder.py
+make_folder.exe
 
 (画面)　
 Input contest name:
@@ -51,7 +51,7 @@ Input contest name: abc120
 | contest name | A | B | C | D | E | F | memo |
 |:------------:|:-:|--:|:--|:-:|:-:|:-:|:----:|
 |abc237       |o|o|△|-| - | - | |
-|abc238       |-|-|-|-| - | - | |
+|abc238       |o|o|?|-| - | - | |
 |abc239       |o|o|o|o| - | - | |
 |abc240       |o|o|o|-| - | - |C:動的計画法 |
 |------       |-|-|-|-| - | - | |
