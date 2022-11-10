@@ -50,6 +50,7 @@ Input contest name: abc120
 
 | contest name | A | B | C | D | E | F | memo |
 |:------------:|:-:|--:|:--|:-:|:-:|:-:|:----:|
+|abc235       |o|o|o|-| - | - |C:連想配列(map) |
 |abc237       |o|o|△|-| - | - | |
 |abc238       |o|o|?|-| - | - | |
 |abc239       |o|o|o|o| - | - | |
