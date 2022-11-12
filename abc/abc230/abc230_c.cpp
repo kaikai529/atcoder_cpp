@@ -5,7 +5,8 @@ using ll = long long;
 #define mv(vec) for(auto &v:vec){cin >> v;}
 
 int main(void){
-
+    ll n, a, b; cin >> n >> a >> b;
+    ll p, q, r, s; cin >> p >> q >> r >> s;
 
     return EXIT_SUCCESS;
 }
