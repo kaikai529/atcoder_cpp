@@ -8,7 +8,8 @@ using ll = long long;
 int ctoi(char c) {return c - '0';}
 
 int main(void){
-
-
+    int s, t, x; cin >> s >> t >> x;
+    if((s<t and (s<=x and x<t)) or (s>t and (x<t or s<=x))) cout << "Yes";
+    else cout << "No";
     return EXIT_SUCCESS;
 }

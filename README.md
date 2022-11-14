@@ -50,6 +50,8 @@ Input contest name: abc120
 
 | contest name | A | B | C | D | E | F | memo |
 |:------------:|:-:|--:|:--|:-:|:-:|:-:|:----:|
+|abc228       |o|o|o|-| - | - | |
+|abc229       |o|o|o|-| - | - | |
 |abc230       |o|o|-|-| - | - | |
 |abc231       |o|o|o|-| - | - |C:二分探索(lower_bound) |
 |abc232       |o|o|-|-| - | - | |
