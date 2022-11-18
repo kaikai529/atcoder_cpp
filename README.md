@@ -50,6 +50,7 @@ Input contest name: abc120
 
 | contest name | A | B | C | D | E | F | memo |
 |:------------:|:-:|--:|:--|:-:|:-:|:-:|:----:|
+|abc227       |o|o|△|-| - | - |C:計算量 |
 |abc228       |o|o|o|-| - | - | |
 |abc229       |o|o|o|-| - | - | |
 |abc230       |o|o|-|-| - | - | |
